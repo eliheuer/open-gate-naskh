@@ -5,9 +5,9 @@ Note: This typeface is a work in progress, and made by a type designer with ques
 
 -Eli H
 
-Open Gate Naskh is a typeface for the Perso-Arabic script in the Persian-Naskh style. 
+Open Gate Naskh is a typeface for the Perso-Arabic script in a persian-naskh-like style.
 
-![Screen Shot 1](documentation/screen-shots/screen-shot-2020-06-29.png)
+![Screen Shot 2](documentation/screen-shots/screen-shot-2020-07-20.png)
 
 ## Development
 For instructions on how to work with the source files and how to

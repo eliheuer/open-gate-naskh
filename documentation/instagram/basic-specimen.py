@@ -46,7 +46,7 @@ text("Date: Mon Aug 17 01:11:23 PDT 2020", (M*1, M*32))
 text("Git Repository: https://github.com/eliheuer/gtl-naskh.git", (M*1, M*31))
 text("Git Commit: 6514145e7fdf58487dd883f1ebc639d0cb1702f1", (M*1, M*30))
 
-font("fonts/ttf/OpenGateNaskh-Regular.ttf")
+font("fonts/ttf/GTLNaskh-Regular.ttf")
 fontSize(M*2)
 
 text("اأإ ب ببب ت تتت ث ثثث ج ججج ح ححح", (M*2.4, M*26))

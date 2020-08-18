@@ -48,7 +48,7 @@ value = GATE;
 date = "2020-06-28 04:25:57 +0000";
 designer = "Eli Heuer";
 designerURL = elih.blog;
-familyName = "Open Gate Naskh";
+familyName = "GTL Naskh";
 fontMaster = (
 {
 ascender = 933;
@@ -8713,8 +8713,8 @@ kerning = {
 };
 };
 };
-manufacturer = "Open Gate Fonts";
-manufacturerURL = opengatebooks.com/fonts;
+manufacturer = GTL;
+manufacturerURL = gtl.world;
 unitsPerEm = 1024;
 userData = {
 GSDimensionPlugin.Dimensions = {

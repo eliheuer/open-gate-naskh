@@ -45,6 +45,7 @@ font("Helvetica")
 text("Date: Mon Aug 17 01:11:23 PDT 2020", (M*1, M*32))
 text("Git Repository: https://github.com/eliheuer/gtl-naskh.git", (M*1, M*31))
 text("Git Commit: 6514145e7fdf58487dd883f1ebc639d0cb1702f1", (M*1, M*30))
+text("Foundry: https://gtl.world", (M*1, M*29))
 
 font("fonts/ttf/GTLNaskh-Regular.ttf")
 fontSize(M*2)
@@ -58,12 +59,11 @@ text("أشهد يا إلهي بأنّك خلقتني لعرفانك وعبادت
 text("أشهد في هذا الحين بعجزي وقوّتك", (M*11, M*11))
 text("وضعفي واقتدارك وفقري وغنآئك", (M*14, M*8))
 text("لا إله إلاّ أنت المهيمن القيّوم", (M*14.2, M*5))
+text("لا إله إلاّ أنت المهيمن القيّوم", (M*14.2, M*5))
+text("يا بهاء الأبـــهى", (M*1, M*5))
 
-fontSize(M*20)
-text("و", (M*5, M*5))
 
-fontSize(M*6)
-text("يا بهاء", (M*24, M*30))
 # SAVE THE IMAGE IN THIS SCRIPT'S DIRECTORY LOCATION
 # POST-PROCESS: gifsicle -i text-specimen.gif --optimize=16 -o output.gif
 saveImage("documentation/instagram/basic-specimen-001.png")
+print("\n[DrawBot]: specimens updated")

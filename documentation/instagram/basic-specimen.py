@@ -48,19 +48,12 @@ text("Git Commit: 6514145e7fdf58487dd883f1ebc639d0cb1702f1", (M*1, M*30))
 text("Foundry: https://gtl.world", (M*1, M*29))
 
 font("fonts/ttf/GTLNaskh-Regular.ttf")
-fontSize(M*2)
+fontSize(M*3)
 
 text("اأإ ب ببب ت تتت ث ثثث ج ججج ح ححح", (M*2.9, M*26))
 text("خ خخخ دذرزو س سسس ش ششش ه ههه", (M*3, M*23))
 text("ص صصص ض ضضض ط ططط ع ععع غ غغغ", (M*3.2, M*20))
 text("غ غغغ ف ففف ق ققق ك ككك ل للل م ممم ن ننن", (M*2.1, M*17))
-
-text("أشــــــــهد يا إلهي بأنّك خلقتني لعرفانك وعبادتك", (M*1, M*14))
-text("أشـــــــــــــــــهد في هذا الحين بعجزي وقوّتك", (M*1, M*11))
-text("وضعفي واقتدارك وفقري وغنائك لا إله إلاّ أنـــت", (M*1, M*8))
-text("لا إله إلاّ أنت المهيمن القيّوم", (M*14.1, M*5))
-text("يا بهاء الأبــــــــــــــهى", (M*1, M*2))
-
 
 # SAVE THE IMAGE IN THIS SCRIPT'S DIRECTORY LOCATION
 # POST-PROCESS: gifsicle -i text-specimen.gif --optimize=16 -o output.gif

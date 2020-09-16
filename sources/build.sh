@@ -9,3 +9,4 @@ cp -r master_ttf/*.ttf fonts/ttf/
 rm -rf master_ttf
 
 python3 documentation/instagram/basic-specimen.py
+python3 documentation/instagram/salah-1.py

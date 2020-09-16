@@ -11,15 +11,15 @@ U = 30    # Unit (Grid Unit)
 # DRAWS A GRID
 def grid():
     strokeWidth(2)
-    stroke(0.1)
+    stroke(0.2)
     step_X = 0
     step_Y = 0
     increment_X = U
     increment_Y = U
-    for x in range(36):
+    for x in range(34):
         polygon( (M+step_X, M), (M+step_X, H-M) )
         step_X += increment_X
-    for y in range(36):
+    for y in range(34):
         polygon( (M, M+step_Y), (W-M, M+step_Y) )
         step_Y += increment_Y
     fill(None)
@@ -37,7 +37,7 @@ def new_page():
 new_page()
 grid() # Toggle for grid view
 
-stroke(0.1)
+stroke(0.2)
 fill(0)
 rect(M*3,M*3, M*30, M*30)
 stroke(None)

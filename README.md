@@ -1,9 +1,6 @@
 # GTL Naskh
 ⚠️
-
-Note: This typeface is a work in progress, and made by a type designer with questionable skill, education, taste, and background for a project like this. Please think of it as an educational exercise at this point, and not a fully developed comercial product. Pull requests are always welcome, and leave an issue if you have any question.
-
--Eli H
+Note: This typeface is a pre-alpha work-in-progress.
 
 GTL Naskh is a contemporary naskh typeface for the Perso-Arabic script.
 

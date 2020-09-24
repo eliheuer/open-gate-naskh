@@ -1,22 +1,15 @@
 # GTL Naskh
 ⚠️
+Note: This typeface is a pre-alpha work-in-progress.
 
-Note: This typeface is a work in progress, and made by a type designer with questionable skill, education, taste, and background for a project like this. Please think of it as an educational exercise at this point, and not a easy-to-use comercial product. Pull requests are always welcome, and leave an issue if you have any question.
+GTL Naskh is a contemporary naskh typeface for the Perso-Arabic script.
 
--Eli H
-
-GTL Naskh is a contemporary naskh typeface for the Perso-Arabic.
-
-![Basic specimen](documentation/instagram/basic-specimen-001.png)
+![Basic specimen](documentation/instagram/salah-001.png)
 
 ## Development
-For instructions on how to work with the source files and how to
-[compile & build font files](CONTRIBUTING.md#compiling-font-files),
-refer to [CONTRIBUTING.md](CONTRIBUTING.md).
+TODO: add build instruction, for now look for the build script in the sorces directory.
 
-Todo: add build instruction, so now look for the build script in the sorces directory.
-
-Open Gate Naskh is licensed under the [SIL Open Font License](OFL.txt)
+GTL Naskh is licensed under the [SIL Open Font License](OFL.txt)
 
 ## Refrence
 

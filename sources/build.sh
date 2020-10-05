@@ -1,4 +1,6 @@
 #!/bin/bash
+set -e
+
 fontmake -g sources/OpenGateNaskh.glyphs -o ttf
 rm -rf instance_ufo
 mkdir -p fonts/ttf
@@ -7,6 +9,3 @@ mkdir -p fonts/ttf
 rm -rf master_ufo
 cp -r master_ttf/*.ttf fonts/ttf/
 rm -rf master_ttf
-
-#python3 documentation/images/basic-specimen-001.py
-#python3 documentation/images/salah-001.py

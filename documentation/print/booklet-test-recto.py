@@ -56,10 +56,10 @@ def new_page():
 new_page() #--------------------------------------------------#
 # SETUP
 #font("fonts/Fraunces[SOFT,WONK,opsz,wght].ttf")
-stroke(0.8)
-grid(U) # Toggle for grid view
-stroke(1,0,0,0.5)
-grid(U*4)
+stroke(0.9)
+#grid(U) # Toggle for grid view
+stroke(1,0,0,0.2)
+#grid(U*4)
 stroke(None)
 fill(0)
 
@@ -68,6 +68,12 @@ fill(None)
 lineJoin("round")
 oval(MH+U*20, MV+U*57, U*4, U*4)
 star(MH+U*22, MV+U*59, 9, U*2, U*1.3)
+strokeWidth(1)
+oval(MH+U*6.5, MV+U*58.5, U*1, U*1)
+oval(MH+U*6.5, MV+U*4.5, U*1, U*1)
+oval(MH+U*36.5, MV+U*58.5, U*1, U*1)
+oval(MH+U*36.5, MV+U*4.5, U*1, U*1)
+strokeWidth(1)
 
 #rect(MH+U*12, MV+U*57, U*2, U*2)
 rect(MH+U*16, MV+U*58, U*2, U*2)
@@ -104,12 +110,12 @@ fontSize(U*2.8)
 font("fonts/ttf/OpenGateNaskh-Regular.ttf")
 stroke(None)
 fill(0)
-text("أشهد يا إلهي بأنّك خلقتني",              (U*11.7,  U*56))
-text("لعرفانك وعبادتــــــــــــــــــــك",   (U*11.9,  U*48))
-text("أشـــــــــــــهد في هذا الحين",        (U*11.7,  U*40))
-text("بعجزي وقوّتك وضعـــــــفي",              (U*12.,  U*32))
-text("واقــتدارك وفقري وغنائك",               (U*12.2, U*24))
-text("لا إله إلاّ أنت المهيمن القيّوم",           (U*11.5,  U*16))
+text("أشــــهد يا إلهي بأنّك خلقتني",              (U*11.8,  U*56))
+text("لعرفانك وعبادتــــــــــــــــــــــك",   (U*11.9,  U*48))
+text("أشـــــــــــــــــهد في هذا الحين",        (U*11.9,  U*40))
+text("بعجزي وقوّتك وضعــــــــــفي",              (U*11.75,  U*32))
+text("واقـــــــتدارك وفقري وغنائك",               (U*12.0, U*24))
+text("لا إله إلاّ أنت المهيمن القيّوم",           (U*11.9,  U*16))
 
 font("fonts/Fraunces[SOFT,WONK,opsz,wght].ttf")
 fontVariations(wght = 600 )
@@ -122,7 +128,7 @@ text("wa iqtedarekah, wa faqree wa qana’ekah",  (U*12.3, U*20))
 text("la illaha illa antal muhaimenol qayoom",  (U*12.7, U*12))
 font("fonts/ttf/OpenGateNaskh-Regular.ttf")
 fontSize(U*2)
-text("١٩",                                      (U*23.4, U*62.6))
+text("١٩",                                      (U*23.37, U*62.4))
 
 # TYPEOGRAPHY
 # SAVE THE IMAGE IN THIS SCRIPT'S DIRECTORY LOCATION

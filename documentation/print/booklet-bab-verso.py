@@ -110,7 +110,7 @@ fill(0)
 font("fonts/Fraunces[SOFT,WONK,opsz,wght].ttf")
 fontVariations(wght = 600 )
 
-txt2 ='''قل الله يكفي عن كلّ شيء ولا يكفي عن الله ربّك من شيء لا في السّموات ولا في الأرض ولا بينهما إنّه كان علاّما كافيا قديرا'''
+txt2 ='''قل الله يكفي عن كلّ شيء ولا يكفي عن الله ربّك من شيء لا في السّــموات ولا في الأرض ولا بينهما إنّه كــــــــــــان علاّما كافيا قديرا'''
 # create a formatted string
 t2 = FormattedString(fontSize=U*2.7)
 # set alignment
@@ -122,7 +122,7 @@ t2 += txt2
 t2 += "\n"
 textBox(t2, (U*8, U*8.5, U*24, U*46))
 
-txt3 ='''هل من مفرج غير الله قل سبحان الله هو الله كل عِباد له وكل بأمره قائمون'''
+txt3 ='''هل من مفرج غير الله قل سبحان الله هو الله كل عِباد له وكـــل بأمره قائمون'''
 # create a formatted string
 t3 = FormattedString(fontSize=U*2.7)
 # set alignment
@@ -145,11 +145,11 @@ fill(0)
 font("fonts/ttf/OpenGateNaskh-Regular.ttf")
 fontSize(U*6)
 text("٢",              (U*29.8,  U*56))
-text("٣",              (U*28.7,  U*28))
+text("٣",              (U*29.2,  U*28))
 fontSize(U*2)
 #text("بســـــــــــــــم الله الرحمـن الرحيـــــــــــــــــــم",  (U*8,  U*52))
 #fontSize(U*1.2)
-text("١٨",                            (U*19.3, U*62.4))
+text("١٨",                            (U*19.35, U*62.5))
 
 # TYPEOGRAPHY
 # SAVE THE IMAGE IN THIS SCRIPT'S DIRECTORY LOCATION

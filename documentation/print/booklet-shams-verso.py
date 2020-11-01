@@ -138,10 +138,9 @@ font("fonts/ttf/OpenGateNaskh-Regular.ttf")
 fontSize(U*2)
 text("تفسير سورة الشمس",              (U*13.3,  U*57.5))
 fontSize(U*2)
-text("بســـــــــــــــم الله الرحمـن الرحيـــــــــــــــــــم",  (U*8,  U*52))
+text("بســـــــــــــــم الله الرحمـن الرحيـــــــــــــــــــم",  (U*7.8,  U*52))
 #fontSize(U*1.2)
 text("١٨",                            (U*19.3, U*62.4))
-
 # TYPEOGRAPHY
 # SAVE THE IMAGE IN THIS SCRIPT'S DIRECTORY LOCATION
 # POST-PROCESS: gifsicle -i text-specimen.gif --optimize=16 -o output.gif

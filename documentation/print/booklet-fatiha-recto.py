@@ -1,8 +1,6 @@
 # RENDER THIS DOCUMENT WITH DRAWBOT: http://www.drawbot.com
 # Note: Run this script from the project root directory with DrawBot installed in editable mode.
 # Note: e.g. $ python3 documentation/slide-decks/final-project-presentation/final-project-presentation.py
-# Typeface Used: https://github.com/undercasetype/Fraunces
-# Typeface Used: https://input.fontbureau.com
 # Unit Space: 72dpi (dots per inch)
 from drawBot import *
 import math
@@ -75,7 +73,6 @@ oval(MH+U*36.5, MV+U*58.5, U*1, U*1)
 oval(MH+U*36.5, MV+U*4.5, U*1, U*1)
 strokeWidth(1)
 
-
 oval(MH+U*10, MV+U*45, U*2, U*2)
 oval(MH+U*10, MV+U*41, U*2, U*2)
 oval(MH+U*10, MV+U*37, U*2, U*2)
@@ -91,12 +88,6 @@ star(MH+U*11, MV+U*34, 9, U*1, U*1.3)
 star(MH+U*11, MV+U*30, 9, U*1, U*1.3)
 star(MH+U*11, MV+U*26, 9, U*1, U*1.3)
 star(MH+U*18, MV+U*10, 9, U*1, U*1.3)
-
-
-
-
-
-
 
 #rect(MH+U*12, MV+U*57, U*2, U*2)
 rect(MH+U*16, MV+U*58, U*2, U*2)
@@ -134,7 +125,6 @@ stroke(0)
 rect(U*12.25, U*53.75, U*24, U*6)
 fill(1)
 rect(U*12, U*54, U*24, U*6)
-
 
 # TYPEOGRAPHY
 fontSize(U*2.7)

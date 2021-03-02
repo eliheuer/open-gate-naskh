@@ -4,7 +4,7 @@ Note: This typeface is a pre-alpha work-in-progress.
 
 GTL Naskh is a contemporary naskh typeface for the Perso-Arabic script.
 
-![Basic specimen](documentation/instagram/salah-001.png)
+![Basic specimen](documentation/images/salah-001.png)
 
 ## Development
 TODO: add build instruction, for now look for the build script in the sorces directory.

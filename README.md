@@ -1,10 +1,17 @@
 # GTL Naskh
-⚠️
-Note: This typeface is a pre-alpha work-in-progress.
+⚠️Note: This typeface is a pre-alpha work-in-progress.
 
 GTL Naskh is a contemporary naskh typeface for the Perso-Arabic script.
 
-![Basic specimen](documentation/images/salah-001.png)
+![presentation](documentation/slide-decks/final-project-presentation/final-project-presentation-002.jpg)
+![presentation](documentation/slide-decks/final-project-presentation/final-project-presentation-004.jpg)
+![presentation](documentation/slide-decks/final-project-presentation/final-project-presentation-007.jpg)
+
+![print](documentation/print/booklet-test-1.jpg)
+![print](documentation/print/booklet-test-2.jpg)
+![print](documentation/print/booklet-bab-verso.jpg)
+![print](documentation/print/booklet-fatiha-recto.jpg)
+![print](documentation/print/booklet-shams-verso.jpg)
 
 ## Development
 TODO: add build instruction, for now look for the build script in the sorces directory.
@@ -35,3 +42,9 @@ Refrence Image 3: Photograph of Mishkín-Qalam (1826-1912)
 | --- | --- | --- |
 
 ![Refrence Image 3](documentation/refrence/3.jpg)
+
+
+![screenshot](screen-shot/screen-shot-2020-06-29.png)
+![screenshot](screen-shot/screen-shot-2020-07-20.png)
+![basic specimen](documentation/images/basic-specimen-001.png)
+![basic specimen](documentation/images/salah-001.png)

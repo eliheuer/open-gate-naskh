@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twodotsverticalbelow-ar" format="2">
+  <advance width="320"/>
+  <outline>
+    <component base="twodotsverticalabove-ar" yOffset="-740"/>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="teh-ar.init" format="2">
+  <advance width="213"/>
+  <unicode hex="FE97"/>
+  <outline>
+    <component base="behDotless-ar.init"/>
+    <component base="twodotshorizontalabove-ar" xOffset="-34" yOffset="-132" identifier="E67E46E1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>E67E46E1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

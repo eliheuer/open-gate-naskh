@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tehMarbuta-ar" format="2">
+  <advance width="395"/>
+  <unicode hex="0629"/>
+  <outline>
+    <component base="heh-ar"/>
+    <component base="twodotshorizontalabove-ar" xOffset="3" yOffset="-47" identifier="2FC26A2B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2FC26A2B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

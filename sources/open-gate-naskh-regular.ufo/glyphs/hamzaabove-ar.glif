@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hamzaabove-ar" format="2">
+  <advance width="200"/>
+  <unicode hex="0654"/>
+  <outline>
+    <contour>
+      <point x="22" y="731" type="curve" smooth="yes"/>
+      <point x="34" y="731"/>
+      <point x="175" y="771"/>
+      <point x="183" y="779" type="curve" smooth="yes"/>
+      <point x="189" y="785"/>
+      <point x="193" y="822"/>
+      <point x="183" y="822" type="curve" smooth="yes"/>
+      <point x="173" y="822"/>
+      <point x="153" y="812"/>
+      <point x="140" y="812" type="curve" smooth="yes"/>
+      <point x="127" y="812"/>
+      <point x="77" y="831"/>
+      <point x="77" y="846" type="curve" smooth="yes"/>
+      <point x="77" y="857"/>
+      <point x="85" y="866"/>
+      <point x="98" y="866" type="curve" smooth="yes"/>
+      <point x="108" y="866"/>
+      <point x="124" y="842"/>
+      <point x="137" y="842" type="curve" smooth="yes"/>
+      <point x="148" y="842"/>
+      <point x="172" y="865"/>
+      <point x="172" y="874" type="curve" smooth="yes"/>
+      <point x="172" y="890"/>
+      <point x="150" y="912"/>
+      <point x="123" y="912" type="curve" smooth="yes"/>
+      <point x="94" y="912"/>
+      <point x="28" y="857"/>
+      <point x="28" y="827" type="curve" smooth="yes"/>
+      <point x="28" y="801"/>
+      <point x="48" y="795"/>
+      <point x="48" y="788" type="curve" smooth="yes"/>
+      <point x="48" y="781"/>
+      <point x="28" y="771"/>
+      <point x="24" y="765" type="curve" smooth="yes"/>
+      <point x="21" y="761"/>
+      <point x="15" y="746"/>
+      <point x="15" y="737" type="curve" smooth="yes"/>
+      <point x="15" y="733"/>
+      <point x="19" y="731"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

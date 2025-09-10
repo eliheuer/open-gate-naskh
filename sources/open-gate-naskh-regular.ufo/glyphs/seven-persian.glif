@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven-persian" format="2">
+  <advance width="615"/>
+  <unicode hex="06F7"/>
+  <outline>
+    <component base="seven-ar" identifier="B1931650"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>seven-ar</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>seven-ar</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B1931650</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

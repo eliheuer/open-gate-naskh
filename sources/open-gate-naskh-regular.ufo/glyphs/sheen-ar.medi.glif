@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sheen-ar.medi" format="2">
+  <advance width="670"/>
+  <unicode hex="FEB8"/>
+  <outline>
+    <component base="seen-ar.medi"/>
+    <component base="threedotsupabove-ar" xOffset="62" yOffset="-270" identifier="8DBD2245"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>8DBD2245</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

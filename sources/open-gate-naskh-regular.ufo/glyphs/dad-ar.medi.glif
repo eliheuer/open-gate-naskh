@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dad-ar.medi" format="2">
+  <advance width="734"/>
+  <unicode hex="FEC0"/>
+  <outline>
+    <component base="sad-ar.medi"/>
+    <component base="dotabove-ar" xOffset="434" yOffset="-133" identifier="A3A82799"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A3A82799</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

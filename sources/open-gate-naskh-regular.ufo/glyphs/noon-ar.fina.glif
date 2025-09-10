@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noon-ar.fina" format="2">
+  <advance width="573"/>
+  <unicode hex="FEE6"/>
+  <outline>
+    <component base="noonghunna-ar.fina"/>
+    <component base="dotabove-ar" xOffset="178" yOffset="-371"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

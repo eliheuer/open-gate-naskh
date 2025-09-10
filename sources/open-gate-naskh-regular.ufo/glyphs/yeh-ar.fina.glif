@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeh-ar.fina" format="2">
+  <advance width="571"/>
+  <unicode hex="FEF2"/>
+  <outline>
+    <component base="alefMaksura-ar.fina"/>
+    <component base="twodotshorizontalbelow-ar" xOffset="70" yOffset="-205" identifier="E2FFAAF4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>E2FFAAF4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

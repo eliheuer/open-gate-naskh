@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="theh-ar.init" format="2">
+  <advance width="213"/>
+  <unicode hex="FE9B"/>
+  <outline>
+    <component base="behDotless-ar.init"/>
+    <component base="threedotsupabove-ar" xOffset="-174" yOffset="-132" identifier="CB5A4EB7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>CB5A4EB7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

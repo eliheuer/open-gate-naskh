@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threedotsdownbelow-ar" format="2">
+  <advance width="615"/>
+  <outline>
+    <component base="dotcenter-ar" xOffset="211" yOffset="-512"/>
+    <component base="dotcenter-ar" xOffset="80" yOffset="-349"/>
+    <component base="dotcenter-ar" xOffset="341" yOffset="-364"/>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="allah-ar" format="2">
+  <advance width="1121"/>
+  <unicode hex="FDF2"/>
+  <outline>
+    <component base="alef-ar" xOffset="939" identifier="A6CF4BE2"/>
+    <component base="lam_lam_heh-ar.liga" xOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A6CF4BE2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noon-ar.init" format="2">
+  <advance width="213"/>
+  <unicode hex="FEE7"/>
+  <outline>
+    <component base="behDotless-ar.init"/>
+    <component base="dotabove-ar" xOffset="29" yOffset="-134" identifier="C9D62A20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>C9D62A20</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

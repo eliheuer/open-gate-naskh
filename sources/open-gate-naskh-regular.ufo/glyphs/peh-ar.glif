@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peh-ar" format="2">
+  <advance width="867"/>
+  <unicode hex="067E"/>
+  <outline>
+    <component base="behDotless-ar"/>
+    <component base="threedotsdownbelow-ar" xOffset="180" yOffset="-90"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>
